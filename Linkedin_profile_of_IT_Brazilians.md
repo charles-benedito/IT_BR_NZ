@@ -102,3 +102,4 @@ William G. Comnisky | Developer | [https://www.linkedin.com/in/wcomnisky/](https
 William Remor | Business Analyst / Data Analyst | [https://www.linkedin.com/in/william-remor-29149934/](https://www.linkedin.com/in/william-remor-29149934/)
 Yuri Cardoso | Developer | [https://www.linkedin.com/in/yuricardoso/](https://www.linkedin.com/in/yuricardoso/)
 Yuri Vasconcelos | Developer | [https://www.linkedin.com/in/yurivasconcelos/](https://www.linkedin.com/in/yurivasconcelos/)
+Charles Benedito | Developer | [https://www.linkedin.com/in/charles-benedito/](https://www.linkedin.com/in/charles-benedito/)
